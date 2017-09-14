@@ -30,9 +30,12 @@ namespace Lesson2.BankApplication
 			Console.WriteLine("\r\nSet the loan term (Months)");
 			int loanTerm = GetNumericLine();
 			ReWriteConsoleLine("Loan term (Months)", loanTerm);
+
+			bool isIncomeEnough = income / 2 > loanAmount / loanTerm;
+			bool isAgeEnough = age > 21;
 			
 			Console.Clear();
-			if (income / 2 > loanAmount / loanTerm)
+			if (isIncomeEnough && isAgeEnough)
 			{
 				Console.WriteLine("Loan is approved");
 			}
