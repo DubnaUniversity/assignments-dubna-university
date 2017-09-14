@@ -13,7 +13,6 @@ namespace Lesson2.BankApplication
 			ReWriteConsoleLine("Name", name);
 
 			Console.WriteLine("\r\nSet your age");
-			
 			int age = GetNumericLine();
 			ReWriteConsoleLine("Age", age);
 
@@ -31,6 +30,16 @@ namespace Lesson2.BankApplication
 			Console.WriteLine("\r\nSet the loan term (Months)");
 			int loanTerm = GetNumericLine();
 			ReWriteConsoleLine("Loan term (Months)", loanTerm);
+			
+			Console.Clear();
+			if (income / 2 > loanAmount / loanTerm)
+			{
+				Console.WriteLine("Loan is approved");
+			}
+			else
+			{
+				Console.WriteLine("Application is rejected");
+			}
 
 			Console.ReadLine();
 		}
