@@ -7,13 +7,43 @@ namespace Lesson2.BankApplication
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello!\r\n What's your name?");
+			Console.WriteLine("Hello!\r\nWhat's your name?");
 
 			string name = Console.ReadLine();
+			ReWriteConsoleLine("Name", name);
+
+			Console.WriteLine("\r\nSet your age");
 			
-			Console.WriteLine("Name: {0}", name);
+			int age = GetNumericLine();
+			ReWriteConsoleLine("Age", age);
+
+			
+			Console.WriteLine("\r\nSet your income");
+			int income = GetNumericLine();
+			ReWriteConsoleLine("Income", income);
+
+			
+			Console.WriteLine("\r\nSet loan amount");
+			int loanAmount = GetNumericLine();
+			ReWriteConsoleLine("Loan amount", loanAmount);
+			
+			
+			Console.WriteLine("\r\nSet the loan term (Months)");
+			int loanTerm = GetNumericLine();
+			ReWriteConsoleLine("Loan term (Months)", loanTerm);
 
 			Console.ReadLine();
+		}
+
+		private static void ReWriteConsoleLine(string text, object loanTerm)
+		{
+			Console.SetCursorPosition(0, Console.CursorTop - 1);
+			Console.WriteLine("{0}: {1}", text, loanTerm.ToString());
+		}
+
+		private static int GetNumericLine()
+		{
+			return Convert.ToInt32(Console.ReadLine());
 		}
 	}
 }
