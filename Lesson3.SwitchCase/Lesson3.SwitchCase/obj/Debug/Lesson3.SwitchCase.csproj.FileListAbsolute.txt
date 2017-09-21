@@ -1,0 +1,6 @@
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\bin\Debug\Lesson3.SwitchCase.exe
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\bin\Debug\Lesson3.SwitchCase.pdb
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\obj\Debug\Lesson3.SwitchCase.csprojResolveAssemblyReference.cache
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\obj\Debug\Lesson3.SwitchCase.csproj.CoreCompileInputs.cache
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\obj\Debug\Lesson3.SwitchCase.exe
+C:\University\assignments\Lesson3.SwitchCase\Lesson3.SwitchCase\obj\Debug\Lesson3.SwitchCase.pdb
