@@ -1,0 +1,12 @@
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/bin/Debug/Lesson3.SwitchCase.exe
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/bin/Debug/Lesson3.SwitchCase.pdb
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.csprojResolveAssemblyReference.cache
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.csproj.CoreCompileInputs.cache
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.exe
+C:/University/assignments/Lesson3.SwitchCase/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.pdb
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/bin/Debug/Lesson3.SwitchCase.exe
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/bin/Debug/Lesson3.SwitchCase.pdb
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.csprojResolveAssemblyReference.cache
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.csproj.CoreCompileInputs.cache
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.exe
+/Users/afilipev/Git/dubna_university/assignments/Lesson4.While.Calculator/Lesson3.SwitchCase/obj/Debug/Lesson3.SwitchCase.pdb
